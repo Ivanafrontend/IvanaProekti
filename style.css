@@ -1,0 +1,21 @@
+body{
+	background-image: url('darkcar.jpg');
+}
+
+#semafor{
+width: 300px;
+height: 650px;
+border: 3px solid gray;
+border-radius: 20px;
+margin-left: 600px;
+background-color: black;
+}
+
+.boja{
+width: 150px;
+height: 150px;
+border: 2px solid black;
+border-radius: 80px;
+margin: 50px;
+margin-left: 70px;
+}
